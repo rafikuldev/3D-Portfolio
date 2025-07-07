@@ -6,7 +6,6 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 
 ## 🔗 [Demo](https://rafikuldev.github.io/Restaurant-Website/)
 
-## 🔗 [GitHub](https://github.com/rafikuldev/Restaurant-Website)
 
 ---
 
@@ -14,7 +13,6 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 
 - [🚀 3D Developer Portfolio](#-3d-developer-portfolio)
   - [🔗 Demo](#-demo)
-  - [� GitHub](#-github)
   - [📚 Table of Contents](#-table-of-contents)
   - [✨ Features](#-features)
   - [🛠 Tech Stack](#-tech-stack)
