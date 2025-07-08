@@ -4,10 +4,8 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 
 ![3d Portfolio Screenshot GitHub](./public/assets/logos/rafikulPortfolio.png)
 
-## 🔗 [Demo](https://rafikuldev.github.io/Restaurant-Website/)
+## 🔗 [Demo](https://rafikuldev.netlify.app/)
 
-
-## 🔗 [Code](https://github.com/rafikuldev)
 ---
 
 ## 📚 Table of Contents
