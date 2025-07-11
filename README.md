@@ -118,4 +118,4 @@ Let me know!
 ---
 
 ## ⭐ Like This Project?
-Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
+Star the repo and [follow ](https://www.instagram.com/rafikuldev/) to the Instagram for more dev content!
